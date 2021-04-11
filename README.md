@@ -2,7 +2,7 @@
 native platform(Android)
 
 #Introduction
-"Prevention is better than cure". This is an app that includes workout plans and nutrition plans as 
+- "Prevention is better than cure". This is an app that includes workout plans and nutrition plans as 
 both of the things are very crucial to be in good physical condition.
 
 #Native Platform app
@@ -11,5 +11,5 @@ both of the things are very crucial to be in good physical condition.
 | v0.1             |Released       |        |
 
 ##Why fit-peeps
-More than often we can find apps related to either fitness or nutrition but not very often to do we find one which includes both the 
+- More than often we can find apps related to either fitness or nutrition but not very often to do we find one which includes both the 
 parameters. Therefore, we are hoping that this app will help all of us to become a healthier version of ourselves.
